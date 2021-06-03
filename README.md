@@ -5,6 +5,6 @@ A portfolio showing a collection of skills learned while studying Computer Scien
 ### Topics include:
 
 - Javascript programming (inc. react/express)
-- Database Integration
+- Database integration
 - API integration
 - Computer Graphics generation
