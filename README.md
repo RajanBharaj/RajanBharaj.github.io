@@ -1,6 +1,6 @@
 # RajanBharaj.github.io
 
-A portfolio showing a collection of skills learnt while studying Computer Science and Web Programming and Applications.
+A portfolio showing a collection of skills learned while studying Computer Science and Web Programming and Applications.
 
 ### Topics include:
 
